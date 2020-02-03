@@ -1,0 +1,4 @@
+aws:
+  param:
+    client-region: us-east-2
+    bucket-name: easyhome-documantal-dev
